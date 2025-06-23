@@ -127,3 +127,20 @@ GROUP BY Country;
 ---
 
 Feel free to suggest improvements or extend this project with additional features such as Python/Power BI visualizations or ML-based trend forecasting.
+
+##  👥 Developed by Vaishnav M - www.linkedin.com/in/vaishnav-m-
+
+## 🙏 Acknowledgments
+
+Special thanks to:
+
+Mentor: Dixon Joy - https://www.linkedin.com/in/dixson-joy-527513173/
+
+Academic Counselors:
+
+Jasmine James - https://www.linkedin.com/in/jasmine-james-2-/
+
+Eric Thomas - https://www.linkedin.com/in/eric-thomas-in/
+
+Institution: Luminar Technolab, Kochi under Rahul Mohanakumar @ https://www.linkedin.com/company/luminartechnolab/posts/?feedView=all @ https://www.linkedin.com/in/rahulluminar/
+
